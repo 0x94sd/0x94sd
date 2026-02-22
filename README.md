@@ -7,7 +7,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0x94sd-181717?style=for-the-badge&logo=github)](https://github.com/0x94sd)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0x94sd-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/icv)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-icv-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/icv)
 
 </div>
 
