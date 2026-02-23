@@ -1,11 +1,16 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=180&section=header&text=Keryan&fontSize=90&fontColor=ffffff&fontAlignY=55&desc=Cybersecurity%20%2F%2F%200x94sd&descAlignY=78&descSize=18&descColor=aaaaaa)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=120&section=header" />
+
+<img src="https://raw.githubusercontent.com/0x94sd/0x94sd/main/title.svg" alt="Keryan" />
+
+**`Cybersecurity // 0x94sd`**
 
 **Cybersecurity Enthusiast & Ethical Hacker**
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-keryan--tetard.vercel.app-eeaeca?style=for-the-badge&logo=vercel&logoColor=050508&labelColor=050508)](https://keryan-tetard.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-0x94sd-181717?style=for-the-badge&logo=github)](https://github.com/0x94sd)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-icv-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/icv)
 
@@ -56,6 +61,6 @@ My toolkit for breaking and securing systems.
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:000000&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:050508,50:2d1b4e,100:050508&height=120&section=footer)
 
 </div>
