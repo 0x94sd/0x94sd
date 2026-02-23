@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=120&section=header" />
-
 <img src="https://raw.githubusercontent.com/0x94sd/0x94sd/main/title.svg" alt="Keryan" />
 
 **`Cybersecurity // 0x94sd`**
@@ -57,10 +55,4 @@ My toolkit for breaking and securing systems.
 
 </div>
 
----
 
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:050508,50:2d1b4e,100:050508&height=120&section=footer)
-
-</div>
