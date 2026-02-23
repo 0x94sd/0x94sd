@@ -1,0 +1,9 @@
+<svg width="500" height="90" viewBox="0 0 500 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#eeaeca"/>
+      <stop offset="100%" style="stop-color:#94bbe9"/>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="68" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="72" font-weight="800" fill="url(#grad)" letter-spacing="-2">Keryan</text>
+</svg>
